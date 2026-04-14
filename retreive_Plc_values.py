@@ -1,7 +1,4 @@
 import pyads
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-import queue
 from datetime import datetime
 import time
 import csv
